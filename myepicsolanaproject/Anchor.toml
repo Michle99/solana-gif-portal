@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+myepicsolanaproject = "9x2gyaPkU3XJNAxUE9KY9semknnWVxqqMDJ5SBJchyW8"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/sammi/.config/solana/id.json"
+
+[scripts]
+test = "node tests/myepicsolanaproject.js"
