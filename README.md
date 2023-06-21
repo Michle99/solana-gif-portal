@@ -44,3 +44,8 @@ To get started with this course, clone this repo and follow these commands:
 Open page in supported browsers such as Brave, chrome with web3 wallets support.
 
 [Live Link]()
+
+
+# Resources
+
+[Build a Solana + Rust app](https://buildspace.so/p/build-solana-web3-app/lessons/finishing-touches-web-app-and-program)
